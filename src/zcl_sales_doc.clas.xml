@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_SALES_DOC</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>global class for sales document</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SALES_DOC</CLSNAME>
+     <CMPNAME>AV_AUART</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Sales Document Type</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SALES_DOC</CLSNAME>
+     <CMPNAME>AV_DATE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Date</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SALES_DOC</CLSNAME>
+     <CMPNAME>GET_HEADER_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get header data method</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SALES_DOC</CLSNAME>
+     <CMPNAME>GET_ITEM_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get item data method</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SALES_DOC</CLSNAME>
+     <CMPNAME>NO_SALES_DOC</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>No sales document</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SALES_DOC</CLSNAME>
+     <CMPNAME>NO_SALES_DOC_METH</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Event handler Method</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
