@@ -266,35 +266,6 @@
       </RSFDO>
      </DOCUMENTATION>
     </item>
-    <item>
-     <FUNCNAME>ZFM_TEST</FUNCNAME>
-     <REMOTE_CALL>R</REMOTE_CALL>
-     <SHORT_TEXT>testing function modules</SHORT_TEXT>
-     <IMPORT>
-      <RSIMP>
-       <PARAMETER>IV_MATNR</PARAMETER>
-       <TYP>MATNR</TYP>
-      </RSIMP>
-     </IMPORT>
-     <EXPORT>
-      <RSEXP>
-       <PARAMETER>ES_MARA</PARAMETER>
-       <TYP>MARA</TYP>
-      </RSEXP>
-     </EXPORT>
-     <DOCUMENTATION>
-      <RSFDO>
-       <PARAMETER>IV_MATNR</PARAMETER>
-       <KIND>P</KIND>
-       <STEXT>General Material Data</STEXT>
-      </RSFDO>
-      <RSFDO>
-       <PARAMETER>ES_MARA</PARAMETER>
-       <KIND>P</KIND>
-       <STEXT>General Material Data</STEXT>
-      </RSFDO>
-     </DOCUMENTATION>
-    </item>
    </FUNCTIONS>
    <DYNPROS>
     <item>
